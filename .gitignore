@@ -1,0 +1,7 @@
+.idea
+.osp
+.htaccess
+.phpunit.result.cache
+/vendor
+index.php
+composer.lock
